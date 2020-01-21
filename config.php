@@ -6,14 +6,14 @@
 
     server with default setting (user 'root' with no password) */
 
-    define('DB_SERVER', 'localhost');
+    define('DB_SERVER', 'sql106.byethost.com');
 
-    define('DB_USERNAME', 'root');
+    define('DB_USERNAME', 'b7_24908459');
 
-    define('DB_PASSWORD', '');
+    define('DB_PASSWORD', 'kien8a11');
     //define('DB_PASSWORD', '&W5gj7SgT8{Fr5/[');
 
-    define('DB_NAME', 'accounts');
+    define('DB_NAME', 'b7_24908459_boxvps');
 
 
 
