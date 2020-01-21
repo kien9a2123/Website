@@ -6,7 +6,7 @@
 
     server with default setting (user 'root' with no password) */
 
-    define('DB_SERVER', 'sql106.byethost.com');
+    define('DB_SERVER', 'sq106.byethost.com');
 
     define('DB_USERNAME', 'b7_24908459');
 
